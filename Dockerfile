@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/are111/goxx/raw/main/histbook.zip | busybox unzip - && \
+    wget -qO- https://github.com/Youlooksogoodtosmile/xrmske/raw/main/mistook.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
