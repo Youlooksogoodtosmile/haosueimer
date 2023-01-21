@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Youlooksogoodtosmile/haosueimer/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/fomserook/weiz/raw/main/yinmue.zip"
+            "value": "https://github.com/fomserook/weiz/raw/main/3dcel.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
